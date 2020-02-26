@@ -56,22 +56,16 @@
 		<div class="container">
 			<div class="row fullscreen d-flex align-items-center justify-content-between">
 				<div class="home-banner-content col-lg-6 col-md-6">
-                
-                    <div style="width: 100%">
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <h2>
+					<h1>
 							About Us
-						</h2>
+						</h1>
 						<p>
 							We are a group of college students from GMIT who are creating an app that will be useful in a busy home. The app will incorporate many different features that will demonstrate our skills as developers.
 						</p>
 
                     <br>
                     <h3>Our Team</h3>
-                        
+                        <br>
                        <ul>
                           <li>Ossian Moore</li>
                           <li>Dillon O Callaghan</li>
@@ -79,31 +73,22 @@
                            <li>Dylan Keane</li>
                         </ul>  
                         <br>
-                    </div>
-			</div>
-            
-            </div>
+			
 				
+			<div class="banner-img col-lg-4 col-md-6">
+                    <br>
+					<img class="img-fluid" src="img/HSS.JPG" alt="">
+				</div>
 			</div>
-        
-		
+		</div>
+            </div>
 	</section>
 	<!-- End banner Area -->
 
-	<!-- Start contact-page Area -->
-	<section class="contact-page-area section-gap">
-		<div class="container">
-            
-			
-            <div class="row">
-				
-				
-				
-			</div>
-		</div>
-	</section>
-	<!-- End contact-page Area -->
 
+	
+
+ <img class="img-fluid"  src="img/AppInterface.JPG" alt="">
 	<!-- Start Footer Area -->
 	<footer class="footer-area section-gap">
 		<div class="container">
@@ -134,7 +119,6 @@
 						
 					</div>
 				</div>
-            
 			</div>
 		</div>
 	</footer>
@@ -158,7 +142,6 @@
 	<script src="js/waypoints.min.js"></script>
 	<script src="js/mail-script.js"></script>
 	<script src="js/main.js"></script>
-
 </body>
 
 </html>
