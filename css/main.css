@@ -1620,12 +1620,12 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 .main-menu {
-  padding-top: 20px; }
+  padding-top: 6px; }
   .main-menu > .row {
     padding: 0 15px; }
 
 #header {
-  padding: 0px 0px 20px 0px;
+  padding: 0px 0px 6px 0px;
   position: fixed;
   left: 0;
   top: 0;
@@ -1663,7 +1663,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 28px; }
 
   #header #logo img {
-    max-height: 40px; } }
+    max-height: 50px; } }
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
